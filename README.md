@@ -55,8 +55,13 @@ Victim_Descent: Descent code of the victim.
 Premise_Code: Premise code indicating the location of the crime.
 
 Premise_Description: Description of the premise code.
+
 Weapon_Used_Code: Weapon code indicating the type of weapon used.
+
 Weapon_Description: Description of the weapon code.
+
 Status: Status of the case.
+
 Status_Description: Description of the status code.
+
 Crime_Category: The category of the crime (Target Variable)
