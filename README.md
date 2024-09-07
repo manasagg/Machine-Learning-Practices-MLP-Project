@@ -2,7 +2,7 @@
 This to an engaging machine learning challenge. My task involves analyzing data to predict crime categories.
 Link to this kaggle project :- https://www.kaggle.com/manasagarwal16/21f1000670-notebook-t22024
 
-# CrimeCast: Forecasting Crime Categories
+## CrimeCast: Forecasting Crime Categories
 
 This dataset offers a comprehensive snapshot of criminal activities within the city. It encompasses various aspects of each incident, including date, time, location, victim demographics, and more.
 
@@ -10,7 +10,7 @@ By leveraging machine learning techniques, we can analyze this rich dataset to p
 
 The task is straightforward: Develop models capable of accurately predicting the crime categories based on this information.
 
-# Data Files:
+### Data Files:
 
 The dataset consists of the following files:
 
@@ -18,7 +18,7 @@ train.csv: The training set, inclusive of the target variable 'crime_category' a
 test.csv: The test set, containing similar feature attributes but excluding the target variable 'crime_category', as it is the variable to be predicted.
 sample_submission.csv: A sample submission file provided in the correct format for competition submissions.
 
-# Columns Description:
+### Columns Description:
 
 Location: Street address of the crime incident.
 Cross_Street: Cross street of the rounded address.
